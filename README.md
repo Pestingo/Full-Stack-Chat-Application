@@ -128,4 +128,4 @@ MIT © Pester Mbhetse (Pestingo)
 
 ## 📞 Support
 
-For support, email pestingo@example.com or create an issue in the repository.
+For support, email pesterpestingo@gmail.com or create an issue in the repository.
